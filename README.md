@@ -1,11 +1,11 @@
 ## Ekow Nii Saki Sackey👾
 
-**`Web weaver/Digital Craftsman(Developer/ Artist)`**
+**`Web weaver/Digital Craftsman (Developer/ Artist)`**
 
 I'm an aspiring full-stack developer in my intermediate learning phase with an unshakable resolve to come out as one of the best in the field. Soon 😉
 
-- 🌱 I’m currently learning the Django and React frameworks. Tyring to master JavaScript as it goes. 
-- 👯 I’m looking to collaborate on any projects. I enjoy challenges. 
+- 🌱 I’m currently learning the Django and React frameworks. Tryng to master JavaScript as it goes. 
+- 👯 I’m looking to collaborate on any project. I enjoy challenges.
 - 💬 Ask me about front-end development
 - 📫 How to reach me: ekowsackey22@gmail.com
 - ⚡ Fun fact: I currently have 1536 chess elo on lichess.
