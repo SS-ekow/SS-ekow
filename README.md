@@ -4,11 +4,11 @@
 
 I'm an aspiring full-stack developer in my intermediate learning phase with an unshakable resolve to come out as one of the best in the field. Soon 😉
 
-- 🌱 I’m currently learning the front-end frameworks and libraries as well as cybersecurity. Trying to master JavaScript as it goes. 
+- 🌱 I’m currently learning the software design and architecture as well as cybersecurity. Practicing  with multiple javascript frameworks too. 
 - 👯 I’m looking to collaborate on any project. I enjoy challenges.
 - 💬 Ask me about front-end development
 - 📫 How to reach me: ekowsackey22@gmail.com
-- ⚡ Fun fact: I currently have 1600 chess elo on lichess.
+- ⚡ Fun fact: I love chess and skating.
 
 <hr>
 🔨Languages and Tools 🧰
